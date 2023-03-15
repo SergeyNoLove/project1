@@ -27,3 +27,5 @@ function removeDuplicates(arr, limit) {
 const result = removeDuplicates([7, 3, 3, 2, 3, 3, 4, 4, 5, 1, 2, 7, 9], 2);
 
 console.log(result);
+console.log('end');
+
